@@ -16,6 +16,12 @@ m_pos.y = a_y;
 m_Size.y = a_height;
 m_Size.x = a_width;
 }
+
+public Box(Point a_Location, Point a_Size)
+{
+    m_pos = a_Location;
+    m_Size = a_Size;
+}
 //gets random point inside of box
 public Point getRandomPoint()
 {

@@ -1,6 +1,7 @@
 
 import MouseUtility.MouseWindow;
 import MouseUtility.MouseWrap;
+import Native.WindowInformation;
 import Windows.Box;
 
 import java.awt.AWTException;
@@ -9,7 +10,7 @@ public class Main {
 
 public static void main(String[] args) throws AWTException {
 // TODO Auto-generated method stub
-
+   int[] tmp= WindowInformation.GetNativeWindowBounds(16260);
 MouseWindow lmw = new MouseWindow();
 lmw.setVisible(true);
 Box ConfirmButton = new Box(-670, 355, 15, 56);

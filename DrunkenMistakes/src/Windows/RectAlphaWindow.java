@@ -48,6 +48,10 @@ setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 setOpacity(.50f);
 }
 
+public Box GetBounds()
+{
+  return new Box(getLocation(), new Point(getSize().width, getSize().height));
+}
 public void ColorBoarder(boolean b)
 {
 if(b)
