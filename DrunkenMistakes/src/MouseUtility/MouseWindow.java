@@ -1,14 +1,13 @@
 package MouseUtility;
 
-import java.awt.MouseInfo;
-import java.awt.Point;
+import java.awt.*;
 import java.awt.event.MouseMotionListener;
 import Windows.RectAlphaWindow;
 
 public class MouseWindow extends RectAlphaWindow
 {
 
-public MouseWindow()
+public MouseWindow() throws AWTException
 {
 super();
 }
