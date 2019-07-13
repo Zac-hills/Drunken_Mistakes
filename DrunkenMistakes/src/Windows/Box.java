@@ -7,6 +7,7 @@ public class Box
 {
 public Point m_pos;
 public Point m_Size;
+//creates a rectangle
 public Box(int a_x,int a_y,int a_height,int a_width)
 {
 m_pos = new Point();
@@ -16,7 +17,7 @@ m_pos.y = a_y;
 m_Size.y = a_height;
 m_Size.x = a_width;
 }
-
+//creates square at location given size
 public Box(Point a_Location, Point a_Size)
 {
     m_pos = a_Location;
