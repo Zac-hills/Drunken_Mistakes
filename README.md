@@ -10,6 +10,6 @@ The whole premise is to make the viewports as small as possible on screen becaus
 ## User Interface Guide
 TBF
 
-##DEPENDENCIES
+## DEPENDENCIES
 This project uses the Tensorflow JNI. The libtensorflow.jar and JNI files can be downloaded from the link below.
 https://www.tensorflow.org/install/lang_java
