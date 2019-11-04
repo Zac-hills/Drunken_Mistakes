@@ -156,6 +156,7 @@ public class ControlWindow implements MouseWindow.CallBack
                 //if thread is not running start task
                 if (!boxCreationThread.isAlive())
                 {
+                    mainWindow.getContentPane().setCursor(new Cursor(Cursor.CROSSHAIR_CURSOR));
                     //refactor to callback function
                     boxCreationThread = new Thread(() ->
                     {

@@ -18,7 +18,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DrunkenMistakes/src/main/java/GUI/OutConsole.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
+            <state relative-caret-position="476">
               <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -28,33 +28,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DrunkenMistakes/target/classes/GUI/ControlWindow.class">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DrunkenMistakes/src/main/java/GUI/ControlWindow.form">
           <provider selected="true" editor-type-id="ui-designer" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DrunkenMistakes/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DrunkenMistakes/DrunkenMistakes.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="82" selection-start-line="1" selection-start-column="82" selection-end-line="1" selection-end-column="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DrunkenMistakes/src/main/java/GUI/ControlWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="160" column="56" lean-forward="true" selection-start-line="160" selection-start-column="56" selection-end-line="160" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="initializer##1;class#ControlWindow#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DrunkenMistakes/src/main/java/Vision/TensorModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+            <state relative-caret-position="340">
+              <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DrunkenMistakes/src/main/java/MouseUtility/MouseWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
+            <state relative-caret-position="493">
               <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
             </state>
           </provider>
@@ -83,7 +83,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DrunkenMistakes/src/main/java/Windows/RectAlphaWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="476">
               <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
               <folding>
                 <element signature="e#829#830#0" expanded="true" />
@@ -105,7 +105,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DrunkenMistakes/src/main/java/Scripting/ScriptManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="289">
               <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -144,10 +144,10 @@
         <option value="$PROJECT_DIR$/DrunkenMistakes/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/DrunkenMistakes/src/main/java/GUI/ControlWindow.form" />
         <option value="$PROJECT_DIR$/DrunkenMistakes/src/main/java/GUI/OutConsole.java" />
-        <option value="$PROJECT_DIR$/DrunkenMistakes/src/main/java/GUI/ControlWindow.java" />
         <option value="$PROJECT_DIR$/DrunkenMistakes/src/main/java/Scripting/Script.java" />
         <option value="$PROJECT_DIR$/DrunkenMistakes/src/main/java/Scripting/ScriptManager.java" />
         <option value="$PROJECT_DIR$/DrunkenMistakes/src/main/java/Vision/TensorModel.java" />
+        <option value="$PROJECT_DIR$/DrunkenMistakes/src/main/java/GUI/ControlWindow.java" />
       </list>
     </option>
   </component>
@@ -181,6 +181,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,12 +190,45 @@
               <item name="UI_Testing_Automation" type="b2602c69:ProjectViewProjectNode" />
               <item name="DrunkenMistakes" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="UI_Testing_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DrunkenMistakes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI_Testing_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DrunkenMistakes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI_Testing_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DrunkenMistakes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI_Testing_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DrunkenMistakes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI_Testing_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DrunkenMistakes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="ControlWindow" type="e9f4de52:FormNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -274,7 +309,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27623212" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27861685" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -283,13 +318,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49960256" weight="0.32969603" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48449922" weight="0.32969603" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49284577" weight="0.3998441" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48410174" weight="0.32969603" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49244833" weight="0.3998441" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49920508" weight="0.32969603" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49920508" weight="0.32969603" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5155008" side_tool="true" visible="true" weight="0.32969603" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5158982" side_tool="true" visible="true" weight="0.32969603" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4972178" weight="0.32969603" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.48251194" weight="0.32969603" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -357,38 +392,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DrunkenMistakes/src/main/java/GUI/ControlWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="initializer##1;class#ControlWindow#0" expanded="true" />
-            <element signature="e#13199#13200#0" expanded="true" />
-            <element signature="e#13231#13232#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DrunkenMistakes/src/main/java/Windows/Box.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="7" column="10" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DrunkenMistakes/src/main/java/GUI/OutConsole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DrunkenMistakes/src/main/java/GUI/ControlWindow.form">
-      <provider selected="true" editor-type-id="ui-designer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/DrunkenMistakes/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -404,9 +413,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DrunkenMistakes/src/main/java/Vision/TensorModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DrunkenMistakes/src/main/java/MouseUtility/MouseWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
+        <state relative-caret-position="493">
           <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
@@ -420,7 +439,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DrunkenMistakes/src/main/java/Windows/RectAlphaWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state relative-caret-position="476">
           <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
           <folding>
             <element signature="e#829#830#0" expanded="true" />
@@ -438,7 +457,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DrunkenMistakes/src/main/java/Scripting/ScriptManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="289">
           <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -446,12 +465,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DrunkenMistakes/src/main/java/Vision/TensorModel.java">
+    <entry file="file://$PROJECT_DIR$/DrunkenMistakes/src/main/java/GUI/OutConsole.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+        <state relative-caret-position="476">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DrunkenMistakes/target/classes/GUI/ControlWindow.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DrunkenMistakes/src/main/java/GUI/ControlWindow.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DrunkenMistakes/src/main/java/GUI/ControlWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="160" column="56" lean-forward="true" selection-start-line="160" selection-start-column="56" selection-end-line="160" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="initializer##1;class#ControlWindow#0" expanded="true" />
           </folding>
         </state>
       </provider>
